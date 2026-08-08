@@ -88,7 +88,7 @@ Exploring the intersection of **Data Analytics, Machine Learning, and Generative
 ---
 
 ### 💡 Quote to Inspire  
-> “Data is the new oil, and Python is the refinery.” ⚙️
+ “Learn. Build. Break. Improve. Repeat.”
 
 ---
 
