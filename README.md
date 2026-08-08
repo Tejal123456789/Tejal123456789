@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Tejal%20Patil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">## ✨ Data Analytics & AI/ML Enthusiast ✨
+<h3 align="center"> ✨ Data Analytics & AI/ML Enthusiast ✨
 
 Exploring the intersection of **Data Analytics, Machine Learning, and Generative AI** by building practical projects and continuously expanding my technical skills.</h3>
 
