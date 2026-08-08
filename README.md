@@ -24,26 +24,45 @@ Exploring the intersection of **Data Analytics, Machine Learning, and Generative
 
 ## 🛠️ Languages & Technologies
 
-### Programming & Data
+### 💻 Programming & Data
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### Data Analytics & Machine Learning
+**Python • SQL**
+
+---
+
+### 📊 Data Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 
-### AI / Generative AI
+**Pandas • NumPy • Power BI • Microsoft Excel**
+
+---
+
+### 🤖 Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=langchain" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
-### Tools & Frameworks
+**Machine Learning • Scikit-learn**
+
+---
+
+### 🧠 AI / Generative AI
+
+**LLMs • Retrieval-Augmented Generation (RAG) • LangChain • ChromaDB • BM25 • Cross-Encoder Re-ranking • Prompt Engineering**
+
+---
+
+### 🧰 Tools & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 </p>
 
+**Git • GitHub • VS Code • Streamlit**
 ---
 
 ### 🚀 Featured Projects  
